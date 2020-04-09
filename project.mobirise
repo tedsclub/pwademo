@@ -43,7 +43,7 @@
     "PWA": {
       "enabled": true,
       "name": "Test PWA",
-      "icon": "@ADDONS_PATH@/pwa-builder/assets/icons/512x512.png",
+      "icon": "@PROJECT_PATH@/assets/images/qits-logo01-512x512.png",
       "themeColor": "#848abd"
     },
     "favicon": false,
